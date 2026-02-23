@@ -2,6 +2,9 @@
 A real-time hand gesture-controlled visual effect inspired by the anime Jujutsu Kaisen. Use your hands in front of a webcam to summon, merge, and throw orbs, culminating in a dramatic Hollow Purple screen explosion.
 
 ##  Demo Flow
+
+https://github.com/user-attachments/assets/27b9f917-4411-4a6d-b720-ad4351994514
+
 1. Show your left index finger → a blue orb appears 🔵
 
 2. Show your right index finger → a red orb appears 🔴
